@@ -1,2 +1,3 @@
 # playing_with_myself
-A test repository between cag022 and c-lozgil
+A test repository meant to explore and learn.
+Collaboration by cag022 and c-lozgil
